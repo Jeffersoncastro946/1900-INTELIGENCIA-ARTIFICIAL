@@ -1,0 +1,35 @@
+Esta carpeta de repositorio contiene tres scripts en Python (.py) que analizan diferentes conjuntos de datos utilizando la biblioteca pandas.
+
+
+## 1. `calificaciones.py`
+Analiza el archivo `calificaciones.csv`, que contiene registros de estudiantes, materias y sus calificaciones.
+
+🔍 **Resultados principales**:
+- Estudiante con el promedio más alto: Estudiante_84 (96.0)
+- Materia con más registros: Inglés (104)
+- 5 estudiantes con el promedio más bajo listados
+- Cantidad de estudiantes con promedio > 85: 5
+
+---
+
+## 2. `ventas.py`
+Analiza `ventas.csv` para evaluar productos vendidos y sus ingresos.
+
+🔍 **Resultados principales**:
+- Producto más vendido en términos monetarios: Monitor (L. 79,008)
+- Precio promedio ponderado: L. 517.43
+- Cantidad total vendida por cada producto
+---
+
+## 3. `clima.py`
+Evalúa `clima.csv` para explorar temperaturas por ciudad y fechas.
+
+🔍 **Resultados principales**:
+- Temperatura más alta: 34.62°C (Madrid, 2023-10-24)
+- Temperatura más baja: -4.8°C (Madrid, 2023-04-25)
+- Ciudad con más días registrados
+- Registros con temperatura > 30°C: 50
+
+---
+
+✅ Todos los análisis están escritos en Python puro utilizando pandas, y son fácilmente ejecutables.
